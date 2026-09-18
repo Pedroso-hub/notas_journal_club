@@ -3,3 +3,4 @@ entropia de shannon -> o uqão tu consegue compatar uma informação sem perder 
 
 carlos sugeriu pegar datasets q tem o nivel de concordancia dos anotadores e treinar um modelo ponderando o ajuste dos pesos de acordo com a qualidade da anotação. as com maior qualidade tem q ter mais importancia.
 
+karin disse pra tentar achar o limite do quanto conseguimos comprimir algo sem perder a info -> shannon
